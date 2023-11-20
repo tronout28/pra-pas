@@ -8,6 +8,7 @@
       <div class="navbar-nav">
         <a class="nav-link "  href="{{ url('/bmw/all') }}">BMW</a>
         <a class="nav-link" href="{{ url('/porsche/all') }}">Porshce</a>
+        <a class="nav-link" href="{{ url('/toyota/all') }}">Toyota</a>
       </div>
     </div>
   </div>
